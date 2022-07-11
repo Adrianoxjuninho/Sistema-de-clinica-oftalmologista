@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C88082DF-9502-481E-9276-F81911D4A78E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>system_infuture</RootNamespace>
+    <AssemblyName>system-infuture</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Systema-Clinica\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>System-Clinic</ProductName>
+    <PublisherName>Adriano Xavier</PublisherName>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>AF89B9A17D53A1875120BC916B5B47E02D8D0820</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>system-infuture_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942, processorArchitecture=MSIL">
+      <HintPath>packages\Portable.BouncyCastle.1.8.9\lib\net40\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.3.2, Culture=neutral, PublicKeyToken=4015e4865bda28a4, processorArchitecture=MSIL">
+      <HintPath>packages\Guna.UI2.WinForms.2.0.3.2\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=1.3.3.11, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <HintPath>packages\SharpZipLib.1.3.3\lib\net45\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlClient, Version=4.6.1.3, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Data.SqlClient.4.8.3\lib\net461\System.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Apresentação\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\FrmLocalizarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\FrmLocalizarCliente.Designer.cs">
+      <DependentUpon>FrmLocalizarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\FrmAgenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\FrmAgenda.Designer.cs">
+      <DependentUpon>FrmAgenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\FrmAvaliacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\FrmAvaliacao.Designer.cs">
+      <DependentUpon>FrmAvaliacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\FrmCadCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\FrmCadCliente.Designer.cs">
+      <DependentUpon>FrmCadCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\FrmConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\FrmConsulta.Designer.cs">
+      <DependentUpon>FrmConsulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\FrmReceberDados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\FrmReceberDados.Designer.cs">
+      <DependentUpon>FrmReceberDados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\FrmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\FrmSplash.Designer.cs">
+      <DependentUpon>FrmSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\PainelLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\PainelLogin.Designer.cs">
+      <DependentUpon>PainelLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\FrmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\FrmUsuario.Designer.cs">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comandos.cs" />
+    <Compile Include="ConexaoDall\AgendaDAO.cs" />
+    <Compile Include="ConexaoDall\AgendamentoDAO.cs" />
+    <Compile Include="ConexaoDall\AvaliacaoDAO.cs" />
+    <Compile Include="ConexaoDall\CadClienteDAO.cs" />
+    <Compile Include="ConexaoDall\CadUsersDAO.cs" />
+    <Compile Include="ConexaoDall\ConsultaDAO.cs" />
+    <Compile Include="ConexaoDall\DataGrid.cs" />
+    <Compile Include="ConexaoDall\EncamminhamentoDAO.cs" />
+    <Compile Include="ConexaoDall\HistoricoPacienteDAO.cs" />
+    <Compile Include="ConexaoDall\LocalizarDAO.cs" />
+    <Compile Include="ConexaoDall\ReceitaDAO.cs" />
+    <Compile Include="ConexaoDall\statusDAO.cs" />
+    <Compile Include="Model\AvalicaoMODEL.cs" />
+    <Compile Include="Model\CadUsersMODEL.cs" />
+    <Compile Include="Model\EncaminhamentoMODEL.cs" />
+    <Compile Include="Model\CadCliente.cs" />
+    <Compile Include="Model\Agendamento.cs" />
+    <Compile Include="Model\LocalizarMODEL.cs" />
+    <Compile Include="Model\Login.cs" />
+    <Compile Include="BancoDeDados\ConnectionFactory.cs" />
+    <Compile Include="ConexaoDall\LoginDAO.cs" />
+    <Compile Include="Model\ReceitaMODEL.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Apresentação\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\FrmLocalizarCliente.resx">
+      <DependentUpon>FrmLocalizarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\FrmAgenda.resx">
+      <DependentUpon>FrmAgenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\FrmAvaliacao.resx">
+      <DependentUpon>FrmAvaliacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\FrmCadCliente.resx">
+      <DependentUpon>FrmCadCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\FrmConsulta.resx">
+      <DependentUpon>FrmConsulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\FrmReceberDados.resx">
+      <DependentUpon>FrmReceberDados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\FrmSplash.resx">
+      <DependentUpon>FrmSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\PainelLogin.resx">
+      <DependentUpon>PainelLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\FrmUsuario.resx">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Colorful-Circle-Simple-Background-Image-1.jpg" />
+    <None Include="Resources\baixados.png" />
+    <None Include="img\icons8-agenda-64.png" />
+    <None Include="img\icons8-adicionar-usuário-masculino-64.png" />
+    <None Include="img\icons8-oftalmologia-64.png" />
+    <None Include="img\icons8-adicionar-usuário-masculino-100.png" />
+    <None Include="img\icons8-adicionar-usuário-masculino-100 %281%29.png" />
+    <None Include="img\8f5676b2dc6aee4096471039e418baaf.jpg" />
+    <None Include="img\wallpapersden.com_76573-3840x2160.jpg" />
+    <None Include="img\b35ea849840f7cec08266130ef4150b0.jpg" />
+    <None Include="img\38-389507_m.jpg" />
+    <None Include="img\icons8-user-50.png" />
+    <None Include="img\icons8-particular-2-50.png" />
+    <None Include="img\visita-ao-oftalmologista-cancer-nos-olhos-1582289496022_v2_1253x836.jpg" />
+    <None Include="img\Sem-Título-1.jpg" />
+    <None Include="img\3a585a18521ca82f9d581954335eeba3.jpg" />
+    <None Include="img\icons8-busca-48.png" />
+    <None Include="img\icons8-pesquisar-16.png" />
+    <None Include="img\icons8-pesquisar-100.png" />
+    <None Include="img\icons8-editar-vários-64.png" />
+    <None Include="img\icons8-excluir-64.png" />
+    <None Include="img\icons8-editar-vários-64 %281%29.png" />
+    <None Include="img\icons8-editar-vários-64 %282%29.png" />
+    <None Include="img\icons8-lápis-64.png" />
+    <None Include="img\icons8-não-editar-64.png" />
+    <None Include="img\icons8-editar-64.png" />
+    <None Include="img\icons8-remover-64.png" />
+    <Content Include="logo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

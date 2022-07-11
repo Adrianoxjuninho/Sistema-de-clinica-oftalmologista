@@ -1,0 +1,121 @@
+C:\Users\Adriano\Desktop\system-infuture\bin\Debug\system-infuture.exe.config
+C:\Users\Adriano\Desktop\system-infuture\bin\Debug\system-infuture.exe
+C:\Users\Adriano\Desktop\system-infuture\bin\Debug\system-infuture.pdb
+C:\Users\Adriano\Desktop\system-infuture\obj\Debug\system-infuture.csproj.AssemblyReference.cache
+C:\Users\Adriano\Desktop\system-infuture\obj\Debug\system-infuture.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adriano\Desktop\system-infuture\obj\Debug\system_infuture.Form1.resources
+C:\Users\Adriano\Desktop\system-infuture\obj\Debug\system_infuture.Properties.Resources.resources
+C:\Users\Adriano\Desktop\system-infuture\obj\Debug\system-infuture.csproj.GenerateResource.cache
+C:\Users\Adriano\Desktop\system-infuture\obj\Debug\system-infuture.csproj.CoreCompileInputs.cache
+C:\Users\Adriano\Desktop\system-infuture\obj\Debug\system-infuture.exe
+C:\Users\Adriano\Desktop\system-infuture\obj\Debug\system-infuture.pdb
+C:\Users\Adriano\Desktop\system-infuture - Copia\bin\Debug\system-infuture.exe.config
+C:\Users\Adriano\Desktop\system-infuture - Copia\bin\Debug\system-infuture.exe
+C:\Users\Adriano\Desktop\system-infuture - Copia\bin\Debug\system-infuture.pdb
+C:\Users\Adriano\Desktop\system-infuture - Copia\obj\Debug\system-infuture.csproj.AssemblyReference.cache
+C:\Users\Adriano\Desktop\system-infuture - Copia\obj\Debug\system-infuture.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adriano\Desktop\system-infuture - Copia\obj\Debug\system_infuture.Form1.resources
+C:\Users\Adriano\Desktop\system-infuture - Copia\obj\Debug\system_infuture.Properties.Resources.resources
+C:\Users\Adriano\Desktop\system-infuture - Copia\obj\Debug\system-infuture.csproj.GenerateResource.cache
+C:\Users\Adriano\Desktop\system-infuture - Copia\obj\Debug\system-infuture.csproj.CoreCompileInputs.cache
+C:\Users\Adriano\Desktop\system-infuture - Copia\obj\Debug\system-infuture.exe
+C:\Users\Adriano\Desktop\system-infuture - Copia\obj\Debug\system-infuture.pdb
+C:\Users\Adriano\Desktop\system-infuture - Copia\obj\Debug\system_infuture.Form2.resources
+C:\Users\Adriano\Desktop\system-infuture 0.1\bin\Debug\system-infuture.exe.config
+C:\Users\Adriano\Desktop\system-infuture 0.1\bin\Debug\system-infuture.exe
+C:\Users\Adriano\Desktop\system-infuture 0.1\bin\Debug\system-infuture.pdb
+C:\Users\Adriano\Desktop\system-infuture 0.1\obj\Debug\system-infuture.csproj.AssemblyReference.cache
+C:\Users\Adriano\Desktop\system-infuture 0.1\obj\Debug\system-infuture.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adriano\Desktop\system-infuture 0.1\obj\Debug\system_infuture.Form1.resources
+C:\Users\Adriano\Desktop\system-infuture 0.1\obj\Debug\system_infuture.Form2.resources
+C:\Users\Adriano\Desktop\system-infuture 0.1\obj\Debug\system_infuture.Properties.Resources.resources
+C:\Users\Adriano\Desktop\system-infuture 0.1\obj\Debug\system-infuture.csproj.GenerateResource.cache
+C:\Users\Adriano\Desktop\system-infuture 0.1\obj\Debug\system-infuture.csproj.CoreCompileInputs.cache
+C:\Users\Adriano\Desktop\system-infuture 0.1\obj\Debug\system-infuture.exe
+C:\Users\Adriano\Desktop\system-infuture 0.1\obj\Debug\system-infuture.pdb
+C:\Users\Adriano\Desktop\system-infuture 1.0\bin\Debug\system-infuture.exe.config
+C:\Users\Adriano\Desktop\system-infuture 1.0\bin\Debug\system-infuture.exe
+C:\Users\Adriano\Desktop\system-infuture 1.0\bin\Debug\system-infuture.pdb
+C:\Users\Adriano\Desktop\system-infuture 1.0\obj\Debug\system-infuture.csproj.AssemblyReference.cache
+C:\Users\Adriano\Desktop\system-infuture 1.0\obj\Debug\system-infuture.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adriano\Desktop\system-infuture 1.0\obj\Debug\system_infuture.Apresentação.Form_CadastroDePaciente.resources
+C:\Users\Adriano\Desktop\system-infuture 1.0\obj\Debug\system_infuture.PainelLogin.resources
+C:\Users\Adriano\Desktop\system-infuture 1.0\obj\Debug\system_infuture.PainelPrincipal.resources
+C:\Users\Adriano\Desktop\system-infuture 1.0\obj\Debug\system_infuture.Properties.Resources.resources
+C:\Users\Adriano\Desktop\system-infuture 1.0\obj\Debug\system-infuture.csproj.GenerateResource.cache
+C:\Users\Adriano\Desktop\system-infuture 1.0\obj\Debug\system-infuture.csproj.CoreCompileInputs.cache
+C:\Users\Adriano\Desktop\system-infuture 1.0\obj\Debug\system-infuture.exe
+C:\Users\Adriano\Desktop\system-infuture 1.0\obj\Debug\system-infuture.pdb
+C:\Users\Adriano\Desktop\Projet-Ativo\bin\Debug\system-infuture.exe.config
+C:\Users\Adriano\Desktop\Projet-Ativo\bin\Debug\system-infuture.exe
+C:\Users\Adriano\Desktop\Projet-Ativo\bin\Debug\system-infuture.pdb
+C:\Users\Adriano\Desktop\Projet-Ativo\obj\Debug\system-infuture.csproj.AssemblyReference.cache
+C:\Users\Adriano\Desktop\Projet-Ativo\obj\Debug\system-infuture.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adriano\Desktop\Projet-Ativo\obj\Debug\system_infuture.PainelLogin.resources
+C:\Users\Adriano\Desktop\Projet-Ativo\obj\Debug\system_infuture.PainelPrincipal.resources
+C:\Users\Adriano\Desktop\Projet-Ativo\obj\Debug\system_infuture.Properties.Resources.resources
+C:\Users\Adriano\Desktop\Projet-Ativo\obj\Debug\system-infuture.csproj.GenerateResource.cache
+C:\Users\Adriano\Desktop\Projet-Ativo\obj\Debug\system-infuture.csproj.CoreCompileInputs.cache
+C:\Users\Adriano\Desktop\Projet-Ativo\obj\Debug\system-infuture.exe
+C:\Users\Adriano\Desktop\Projet-Ativo\obj\Debug\system-infuture.pdb
+C:\Users\Adriano\Desktop\Projet-Ativo\obj\Debug\system_infuture.Apresentação.consulta.resources
+C:\Users\Adriano\Desktop\Projet-Ativo\obj\Debug\system_infuture.Apresentação.agentamento.resources
+C:\Users\Adriano\Desktop\Projet-Ativo\obj\Debug\system_infuture.Apresentação.cadastro.resources
+C:\Users\Adriano\Desktop\Projet-Ativo\obj\Debug\system_infuture.Apresentação.avaliacao.resources
+C:\Users\Adriano\Desktop\Projet-Ativo\obj\Debug\system_infuture.Apresentação.localizar.resources
+C:\Users\Adriano\Desktop\Projet-Ativo\obj\Debug\system_infuture.Apresentação.agenda.resources
+C:\Projet-Ativo\obj\Debug\system-infuture.csproj.AssemblyReference.cache
+C:\Projet-Ativo\obj\Debug\system-infuture.csproj.SuggestedBindingRedirects.cache
+C:\Projet-Ativo\obj\Debug\system_infuture.Apresentação.agenda.resources
+C:\Projet-Ativo\obj\Debug\system_infuture.Apresentação.agentamento.resources
+C:\Projet-Ativo\obj\Debug\system_infuture.Apresentação.avaliacao.resources
+C:\Projet-Ativo\obj\Debug\system_infuture.Apresentação.cadastro.resources
+C:\Projet-Ativo\obj\Debug\system_infuture.Apresentação.consulta.resources
+C:\Projet-Ativo\obj\Debug\system_infuture.Apresentação.localizar.resources
+C:\Projet-Ativo\obj\Debug\system_infuture.PainelLogin.resources
+C:\Projet-Ativo\obj\Debug\system_infuture.PainelPrincipal.resources
+C:\Projet-Ativo\obj\Debug\system_infuture.Apresentação.Usuario.resources
+C:\Projet-Ativo\obj\Debug\system_infuture.ConexaoDall.conexaoSql.resources
+C:\Projet-Ativo\obj\Debug\system_infuture.Properties.Resources.resources
+C:\Projet-Ativo\obj\Debug\system-infuture.csproj.GenerateResource.cache
+C:\Projet-Ativo\obj\Debug\system-infuture.csproj.CoreCompileInputs.cache
+C:\Projet-Ativo\bin\Debug\system-infuture.exe.config
+C:\Projet-Ativo\bin\Debug\system-infuture.exe.manifest
+C:\Projet-Ativo\bin\Debug\system-infuture.application
+C:\Projet-Ativo\bin\Debug\system-infuture.exe
+C:\Projet-Ativo\bin\Debug\system-infuture.pdb
+C:\Projet-Ativo\bin\Debug\System.Data.SqlClient.dll
+C:\Projet-Ativo\bin\Debug\System.Data.SqlClient.xml
+C:\Projet-Ativo\obj\Debug\system-infuture.exe.manifest
+C:\Projet-Ativo\obj\Debug\system-infuture.application
+C:\Projet-Ativo\obj\Debug\system-infuture.csproj.CopyComplete
+C:\Projet-Ativo\obj\Debug\system-infuture.exe
+C:\Projet-Ativo\obj\Debug\system-infuture.pdb
+C:\Users\Adriano\Documents\Projet-Ativo\bin\Debug\system-infuture.exe.config
+C:\Users\Adriano\Documents\Projet-Ativo\bin\Debug\system-infuture.exe.manifest
+C:\Users\Adriano\Documents\Projet-Ativo\bin\Debug\system-infuture.application
+C:\Users\Adriano\Documents\Projet-Ativo\bin\Debug\system-infuture.exe
+C:\Users\Adriano\Documents\Projet-Ativo\bin\Debug\system-infuture.pdb
+C:\Users\Adriano\Documents\Projet-Ativo\bin\Debug\Guna.UI2.dll
+C:\Users\Adriano\Documents\Projet-Ativo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Adriano\Documents\Projet-Ativo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Adriano\Documents\Projet-Ativo\obj\Debug\system-infuture.csproj.AssemblyReference.cache
+C:\Users\Adriano\Documents\Projet-Ativo\obj\Debug\system-infuture.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adriano\Documents\Projet-Ativo\obj\Debug\system_infuture.Apresentação.agenda.resources
+C:\Users\Adriano\Documents\Projet-Ativo\obj\Debug\system_infuture.Apresentação.agentamento.resources
+C:\Users\Adriano\Documents\Projet-Ativo\obj\Debug\system_infuture.Apresentação.avaliacao.resources
+C:\Users\Adriano\Documents\Projet-Ativo\obj\Debug\system_infuture.Apresentação.cadastro.resources
+C:\Users\Adriano\Documents\Projet-Ativo\obj\Debug\system_infuture.Apresentação.consulta.resources
+C:\Users\Adriano\Documents\Projet-Ativo\obj\Debug\system_infuture.Apresentação.localizar.resources
+C:\Users\Adriano\Documents\Projet-Ativo\obj\Debug\system_infuture.PainelLogin.resources
+C:\Users\Adriano\Documents\Projet-Ativo\obj\Debug\system_infuture.PainelPrincipal.resources
+C:\Users\Adriano\Documents\Projet-Ativo\obj\Debug\system_infuture.Apresentação.Usuario.resources
+C:\Users\Adriano\Documents\Projet-Ativo\obj\Debug\system_infuture.ConexaoDall.conexaoSql.resources
+C:\Users\Adriano\Documents\Projet-Ativo\obj\Debug\system_infuture.Properties.Resources.resources
+C:\Users\Adriano\Documents\Projet-Ativo\obj\Debug\system-infuture.csproj.GenerateResource.cache
+C:\Users\Adriano\Documents\Projet-Ativo\obj\Debug\system-infuture.csproj.CoreCompileInputs.cache
+C:\Users\Adriano\Documents\Projet-Ativo\obj\Debug\system-infuture.exe.manifest
+C:\Users\Adriano\Documents\Projet-Ativo\obj\Debug\system-infuture.application
+C:\Users\Adriano\Documents\Projet-Ativo\obj\Debug\system-infuture.csproj.CopyComplete
+C:\Users\Adriano\Documents\Projet-Ativo\obj\Debug\system-infuture.exe
+C:\Users\Adriano\Documents\Projet-Ativo\obj\Debug\system-infuture.pdb

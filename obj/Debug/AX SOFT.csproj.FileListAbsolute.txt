@@ -1,0 +1,28 @@
+C:\Projet-Ativo\bin\Debug\system-infuture.exe.config
+C:\Projet-Ativo\bin\Debug\system-infuture.exe.manifest
+C:\Projet-Ativo\bin\Debug\system-infuture.application
+C:\Projet-Ativo\bin\Debug\system-infuture.exe
+C:\Projet-Ativo\bin\Debug\system-infuture.pdb
+C:\Projet-Ativo\bin\Debug\System.Data.SqlClient.dll
+C:\Projet-Ativo\bin\Debug\System.Data.SqlClient.xml
+C:\Projet-Ativo\obj\Debug\AX SOFT.csproj.AssemblyReference.cache
+C:\Projet-Ativo\obj\Debug\AX SOFT.csproj.SuggestedBindingRedirects.cache
+C:\Projet-Ativo\obj\Debug\system_infuture.Apresentação.agenda.resources
+C:\Projet-Ativo\obj\Debug\system_infuture.Apresentação.agentamento.resources
+C:\Projet-Ativo\obj\Debug\system_infuture.Apresentação.avaliacao.resources
+C:\Projet-Ativo\obj\Debug\system_infuture.Apresentação.cadastro.resources
+C:\Projet-Ativo\obj\Debug\system_infuture.Apresentação.consulta.resources
+C:\Projet-Ativo\obj\Debug\system_infuture.Apresentação.localizar.resources
+C:\Projet-Ativo\obj\Debug\system_infuture.PainelLogin.resources
+C:\Projet-Ativo\obj\Debug\system_infuture.PainelPrincipal.resources
+C:\Projet-Ativo\obj\Debug\system_infuture.Apresentação.Usuario.resources
+C:\Projet-Ativo\obj\Debug\system_infuture.ConexaoDall.conexaoSql.resources
+C:\Projet-Ativo\obj\Debug\system_infuture.Properties.Resources.resources
+C:\Projet-Ativo\obj\Debug\AX SOFT.csproj.GenerateResource.cache
+C:\Projet-Ativo\obj\Debug\AX SOFT.csproj.CoreCompileInputs.cache
+C:\Projet-Ativo\obj\Debug\system-infuture.exe.manifest
+C:\Projet-Ativo\obj\Debug\system-infuture.application
+C:\Projet-Ativo\obj\Debug\AX SOFT.csproj.CopyComplete
+C:\Projet-Ativo\obj\Debug\system-infuture.exe
+C:\Projet-Ativo\obj\Debug\system-infuture.pdb
+C:\Projet-Ativo\obj\Debug\system_infuture.Apresentação.Form1.resources
