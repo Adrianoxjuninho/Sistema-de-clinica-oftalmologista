@@ -1,4 +1,4 @@
 # Sistema para clinica de ofalmologista
-Projeto para praticar meus conhecimento.
+Projeto para praticar meus conhecimento, ainda não está finalizado.
 
-Sistema é em c# com Sql Server.
+Sistema é composto com C# e Sql Server 
